@@ -12,7 +12,7 @@ task.wait(0.5)
 -- Add usernames below to grant access
 -- ============================================
 local whitelist = {
-    "goblinjeu", "shalom_goya" -- Add usernames here
+    "goblinjeu", "shalom_goya", "bobocatmanogdidi"-- Add usernames here
 }
 
 local playerName = game:GetService("Players").LocalPlayer.Name
